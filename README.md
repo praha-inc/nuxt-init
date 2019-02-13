@@ -1,22 +1,10 @@
 # nuxt-init
 
-> My tremendous Nuxt.js project
-
 ## Build Setup
 
-``` bash
-# install dependencies
+```bash
 $ yarn install
-
-# serve with hot reload at localhost:3000
 $ yarn run dev
-
-# build for production and launch server
-$ yarn run build
-$ yarn start
-
-# generate static project
-$ yarn run generate
 ```
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+以上を行った後に、DOM の変更、css の変更などが反映されるところまで確認してください。
